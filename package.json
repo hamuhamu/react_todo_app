@@ -25,6 +25,7 @@
     "babelify": "^7.3.0",
     "browserify": "^14.4.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5"
   }
 }
